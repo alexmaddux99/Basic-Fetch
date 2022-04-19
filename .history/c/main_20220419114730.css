@@ -4,7 +4,7 @@
     font-family: 'Roboto', sans-serif;
     background-color: lightblue;
     width: 500px;
-    margin: auto;
+    text-align: center;
 }
 
 .house{
@@ -12,12 +12,10 @@
 }
 
 dt{
-    text-align: center;
     padding: 1rem;
     background-color: grey;
 }
 
-p{
+dd{
     padding: 1rem;
-    text-align: center;
 }

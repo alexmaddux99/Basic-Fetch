@@ -4,7 +4,6 @@
     font-family: 'Roboto', sans-serif;
     background-color: lightblue;
     width: 500px;
-    margin: auto;
 }
 
 .house{
@@ -17,7 +16,6 @@ dt{
     background-color: grey;
 }
 
-p{
+dd{
     padding: 1rem;
-    text-align: center;
 }
